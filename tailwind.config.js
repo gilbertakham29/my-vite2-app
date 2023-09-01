@@ -7,10 +7,10 @@ export default {
   theme: {
     extend: {
       screens:{
-        "xs":"363px"
+        "xs":"363px",
+        "xss":"360px"
       }
     },
   },
   plugins: [],
 }
-
